@@ -1,14 +1,16 @@
 # Gerenciamento de aeroportos
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81763479/203630936-b3c8a3d4-a5d4-4801-9561-d8af5259f29a.jpg" width="850px">
+</div>
 
-# Sobre
+# Sobre o projeto
 
-Projeto proposto para um trabalho de faculdade, cujo o objetivo é criar uma API Web 
+Projeto desenvolvido para fins didáticos, com o objetivo de entender como funciona uma API Web contendo o back-end e front-end utilizando a arquitetura MVC.Sendo assim, o desafio proposto era  criar  API REST que forneça os dados no formato json, para gerenciar o cadastro de aeroportos espalhados pelo mundo todo.Na parte de back-end a equipe decidiu trabalhar com a linguagem de programação Python juntamente com o framework web Flask, como também foi escolhido para ser o SGBD o Postgresql.
 
 <h4 align="center"> 
-	🚧  Conclúido  . . .
+	✅  Conclúido  . . .
 </h4>
 
 # Índice/Sumário
@@ -25,17 +27,17 @@ Projeto proposto para um trabalho de faculdade, cujo o objetivo é criar uma API
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Obter todos os aeroportos**
+- [x] **Obter um aeroporto pelo código aeroportuário IATA**
+- [x] **Adicionar um novo aeroporto**
+- [x] **Atualizar um aeroporto existente**
+- [x] **Excluir um aeroporto**
+
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
+- [Python](https://www.python.org)
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
