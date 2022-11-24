@@ -22,7 +22,7 @@ Projeto desenvolvido para fins didáticos, com o objetivo de entender como funci
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+
 
 
 # Requisitos Funcionais 
@@ -69,6 +69,4 @@ Obrigado a todos colaboradores
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
-# Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
