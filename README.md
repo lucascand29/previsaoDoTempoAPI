@@ -39,7 +39,7 @@ Projeto desenvolvido para fins didáticos, com o objetivo de entender como funci
 - [Python](https://www.python.org)
 - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
 - [React](https://pt-br.reactjs.org/)
-
+- [PostgreSQL](https://www.postgresql.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
