@@ -7,7 +7,7 @@
 
 # Sobre o projeto
 
-Projeto desenvolvido para fins didáticos, com o objetivo de entender como funciona uma API Web contendo o back-end e front-end utilizando a arquitetura MVC. Sendo assim, o desafio proposto era  criar uma API REST que forneça os dados no formato json, para gerenciar o cadastro de aeroportos espalhados por todo o globo.
+Projeto desenvolvido para fins didáticos, com o objetivo de entender como funciona uma API Web contendo o back-end, front-end e um banco de dados relacional utilizando a arquitetura MVC com sistemas distribuídos. Sendo assim, o desafio proposto era  criar uma API REST que forneça os dados no formato json, para gerenciar o cadastro de aeroportos espalhados por todo o globo.
 
 <h4 align="center"> 
 	✅  Conclúido  . . .
@@ -22,7 +22,7 @@ Projeto desenvolvido para fins didáticos, com o objetivo de entender como funci
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
-
+* [Agradecimentos](#agradecimentos)
 
 
 # Requisitos Funcionais 
@@ -69,4 +69,6 @@ Obrigado a todos colaboradores
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
+# Agradecimentos
 
+Nós da equipe Inimagináveis somos gratos pela ajuda e disponibilidade de conteúdos fornecidos pelo professores da universidade Una campus Aimorés, Diego e Wesley, da unidade curricular de sistemas distribuídos. Vale ressaltar,  a participação de toda a equipe que estava engajada para o desenvolvimento do projeto.
